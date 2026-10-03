@@ -47,17 +47,18 @@
 
 <div align="center">
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jagerist&theme=radical&hide_border=true" alt="Jagerist's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SOC1OP4TH&theme=radical&hide_border=true" alt="SOC1OP4TH's GitHub Streak" />
 </div>
 <br/>
 <div align="center">
   <!-- Top Languages & General Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Jagerist&show_icons=true&theme=radical&hide_border=true" alt="Jagerist's GitHub stats" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagerist&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SOC1OP4TH&show_icons=true&theme=radical&hide_border=true" alt="SOC1OP4TH's GitHub stats" height="195" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOC1OP4TH&layout=compact&theme=radical&hide_border=true&hide=python" alt="Top Langs" height="195" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jagerist&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SOC1OP4TH&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
